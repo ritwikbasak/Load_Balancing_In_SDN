@@ -1,0 +1,1 @@
+(time wget -q 10.0.0.10) | grep 'real' | awk '{print $2}' >> "$1.txt"

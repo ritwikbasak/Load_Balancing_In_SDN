@@ -1,0 +1,10 @@
+--2023-12-03 11:11:42--  http://10.0.0.10/
+Connecting to 10.0.0.10:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1792 (1.8K) [text/html]
+Saving to: ‘index.html.13’
+
+     0K .                                                     100%  153M=0s
+
+2023-12-03 11:12:10 (153 MB/s) - ‘index.html.13’ saved [1792/1792]
+
